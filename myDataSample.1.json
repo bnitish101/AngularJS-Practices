@@ -1,0 +1,50 @@
+[
+    {
+        "fname":"Nio",
+        "lname":"Thries",
+        "designation":"Software Engineer",
+        "city":"Mumbai",
+        "state":"Maharashtra",
+        "country":"India"
+    },
+    {
+        "fname":"Bucky",
+        "lname":"Robret",
+        "designation":"Software Engineer1",
+        "city":"Mumbai1",
+        "state":"Maharashtra1",
+        "country":"India1"
+    },
+    {
+        "fname":"Annu",
+        "lname":"Tiwari",
+        "designation":"Software Engineer2",
+        "city":"Mumbai2",
+        "state":"Maharashtra2",
+        "country":"India2"
+    },
+    {
+        "fname":"Divyesh",
+        "lname":"Dedhi",
+        "designation":"Software Engineer",
+        "city":"Mumbai",
+        "state":"Maharashtra",
+        "country":"India"
+    },
+    {
+        "fname":"Vikram",
+        "lname":"Kotian",
+        "designation":"Software Engineer1",
+        "city":"Mumbai1",
+        "state":"Maharashtra1",
+        "country":"India1"
+    },
+    {
+        "fname":"Jayesh",
+        "lname":"Chaudhari",
+        "designation":"Software Engineer2",
+        "city":"Mumbai2",
+        "state":"Maharashtra2",
+        "country":"India2"
+    }
+]

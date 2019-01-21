@@ -1,0 +1,58 @@
+[ 
+    {
+        "mumbai":{
+            "employee":{
+                "fname" : "Nio",
+                "lname" : "Thries",
+                "contact" : "9876543210"
+            },
+            "company":{
+                "compName" : "Softtech",
+                "compAddress" : "Thries",
+                "ontact" : "9876543210"
+            }
+        },
+        "pune":{
+            "employee":{
+                "company":{
+                    "compName" : "Softtech",
+                    "compAddress" : "Thries",
+                    "ontact" : "9876543210"
+                },
+                "employee":{
+                    "fname" : "Nio",
+                    "lname" : "Thries",
+                    "contact" : "9876543210"
+                }
+            }
+        }
+    },
+    {
+        "mumbai":{
+            "employee":{
+                "fname" : "Nio",
+                "lname" : "Thries",
+                "contact" : "9876543210"
+            },
+            "company":{
+                "compName" : "Softtech",
+                "compAddress" : "Thries",
+                "ontact" : "9876543210"
+            }
+        },
+        "pune":{
+            "employee":{
+                "company":{
+                    "compName" : "Softtech",
+                    "compAddress" : "Thries",
+                    "ontact" : "9876543210"
+                },
+                "employee":{
+                    "fname" : "Nio",
+                    "lname" : "Thries",
+                    "contact" : "9876543210"
+                }
+            }
+        }
+    }
+]

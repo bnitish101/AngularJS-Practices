@@ -1,0 +1,26 @@
+[
+    {
+        "fname":"Nio",
+        "lname":"Thries",
+        "designation":"Software Engineer",
+        "city":"Mumbai",
+        "state":"Maharashtra",
+        "country":"India"
+    },
+    {
+        "fname":"Nio1",
+        "lname":"Thries1",
+        "designation":"Software Engineer1",
+        "city":"Mumbai1",
+        "state":"Maharashtra1",
+        "country":"India1"
+    },
+    {
+        "fname":"Nio2",
+        "lname":"Thries2",
+        "designation":"Software Engineer2",
+        "city":"Mumbai2",
+        "state":"Maharashtra2",
+        "country":"India2"
+    }
+]
